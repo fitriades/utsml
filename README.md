@@ -1,17 +1,11 @@
 # Laporan Proyek Machine Learning
-### Nama :
-### Nim :
-### Kelas :
+### Nama : Fitria Desiyani
+### Nim : 211351057
+### Kelas : Pagi B
 
 ## Domain Proyek
 
-Pada bagian ini, kamu perlu menuliskan latar belakang yang relevan dengan proyek yang diangkat.
-
-**Rubrik/Kriteria Tambahan (Opsional)**:
-- Jelaskan mengapa dan bagaimana masalah tersebut harus diselesaikan
-- Menyertakan hasil riset terkait atau referensi. Referensi yang diberikan harus berasal dari sumber yang kredibel dan author yang jelas.
-  
-  Format Referensi: [Judul Referensi](https://scholar.google.com/) 
+Pengidap penyakit hepatitis sejatinya beresiko untuk meninggal dunia dan survive. Pada project ini pengidap hepatitis bisa melakukan perhitungan apakah beresiko untuk meninggal dunia atau punya kesempatan untuk survive.
 
 ## Business Understanding
 
