@@ -1,4 +1,4 @@
-![image](https://github.com/fitriades/utsml/assets/149255008/bcac5d35-2693-43bf-b692-e475d5c40eb2)# Laporan Proyek Machine Learning
+# Laporan Proyek Machine Learning
 ### Nama : Fitria Desiyani
 ### Nim : 211351057
 ### Kelas : Pagi B
